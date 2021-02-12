@@ -1,34 +1,35 @@
 Opencartml
 
 
-Resumo
+Summary
 
-OpencartML é uma proposta em desenvolvimento de integração Mercado Livre Opencart. Tornar uma só 
-administração para as duas plataforma, em prol da descentralização das grandes plataformas de e-commerce, fortalecendo
-cada vez mais a plataforma autonoma e diversificada dos aplicativos desenvolvidos com o a plataforma Opencart entre outras
-de igual relevância. Vamos nos ver livres!
-
-
-Faça sua sugestão
-
-Não abra um relatório de erro! se você tem alguma idéia para implementar, faça um fork e entre com propostas de commmit. 
-Toda sugestão pública é bem vinda, é assim que nasce uma solução. Seja breve nos comentários, mas não os deixe de lado
-essa seria a unica forma de sua sugestão não ser aceita. 
+OpencartML is a proposal under development for the Free Market Opencart integration. Make one
+administration for both platforms, in favor of decentralization of large e-commerce platforms, strengthening
+increasingly the autonomous and diverse platform of applications developed with the Opencart platform among others
+of equal relevance. Let's get free!
 
 
-Como contribuir
-Faça um Fork no repositório, modifique e envie! (pull request).
-Seja o mais suscinto possivel na mensagem de commit, envios sem anotações serão rejeitados.
-O relese dos desenvolvedores não deverão ser alterados ou retirados. Nunca altere os cabeçalhos de programas
-porque eles sãao sua referencia futura! Quem fez o código original é seu parceiro sem saber, então seja
-bacana com ele.
+Make your suggestion
+
+Do not open an error report! if you have any ideas to implement, fork and enter commmit proposals.
+Any public suggestion is welcome, this is how a solution is born. Be brief in the comments, but don't leave them aside
+that would be the only way your suggestion would not be accepted.
 
 
-Licença
+How to contribute
+Fork the repository, modify and upload! (pull request).
+Be as cautious as possible in the commit message, submissions without annotations will be rejected.
+The developers' review should not be changed or removed. Never change program headers
+because they are your future reference! Whoever made the original code is your partner without knowing it, so be
+nice with him.
+
+
+License
 GNU General Public License version 3 (GPLv3)
 
-Plataforma de teste:
+Test platform:
 https://nicbit.com.br/
 
-Apoio:
-http://soire.com.br
+Support:
+http://soire.com.br 
+
